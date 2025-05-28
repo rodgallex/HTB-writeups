@@ -1,6 +1,6 @@
 # Writeups de HTB 🛡️
 
-Este repositorio contiene una colección de writeups sobre el laboratorio de la plataforma Hack The Box. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
+Este repositorio contiene una colección de writeups sobre maquinas de la plataforma Hack The Box. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
 
 ## 🧠 Contenido
 
