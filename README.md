@@ -11,18 +11,6 @@ Este repositorio contiene una colección de writeups sobre retos de CTF, laborat
 - Post-explotación
 - Técnicas de evasión
 
-## 📁 Estructura
-
-writeups/
-├── HTB/
-│ ├── nombre_maquina.pdf
-├── TryHackMe/
-│ ├── nombre_reto.pdf
-├── VulnHub/
-│ ├── nombre_maquina.pdf
-└── Otros/
-├── nombre_reto_o_analisis.pdf
-
 ## 📌 Notas
 
 - Todos los writeups son realizados con fines educativos.
