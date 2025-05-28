@@ -1,6 +1,6 @@
-# Writeups de Ciberseguridad 🛡️
+# Writeups de HTB 🛡️
 
-Este repositorio contiene una colección de writeups sobre laboratorios de plataformas como Hack The Box. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
+Este repositorio contiene una colección de writeups sobre el laboratorio de la plataforma Hack The Box. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
 
 ## 🧠 Contenido
 
@@ -14,7 +14,7 @@ Este repositorio contiene una colección de writeups sobre laboratorios de plata
 ## 📌 Notas
 
 - Todos los writeups son realizados con fines educativos.
-- Se omite información sensible o que infrinja TOS de las plataformas.
+- Se omite información sensible o que infrinja TOS de la plataforma.
 - Feedback o sugerencias son bienvenidas vía *Issues* o *Pull Requests*.
 
 ## 📬 Contacto
