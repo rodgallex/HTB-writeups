@@ -1,6 +1,6 @@
 # Writeups de Ciberseguridad 🛡️
 
-Este repositorio contiene una colección de writeups sobre retos de CTF, laboratorios de plataformas como Hack The Box, TryHackMe, y otros escenarios relacionados con la ciberseguridad ofensiva y defensiva. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
+Este repositorio contiene una colección de writeups sobre laboratorios de plataformas como Hack The Box. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
 
 ## 🧠 Contenido
 
