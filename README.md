@@ -1,25 +1,25 @@
-# Writeups de HTB 🛡️
+# HTB Writeups 🛡️
 
-Este repositorio contiene una colección de writeups sobre maquinas de la plataforma Hack The Box. Cada writeup detalla la metodología utilizada, las herramientas aplicadas, y reflexiones personales sobre el aprendizaje adquirido.
+This repository contains a collection of writeups for machines on the Hack The Box platform. Each writeup details the methodology used, tools applied, and personal reflections on the lessons learned.
 
-## 🧠 Contenido
+## 🧠 Contents
 
-- Análisis de vulnerabilidades
-- Escaladas de privilegios
-- Ingeniería inversa
-- Explotación de servicios
-- Post-explotación
-- Técnicas de evasión
+- Vulnerability analysis  
+- Privilege escalation  
+- Reverse engineering  
+- Service exploitation  
+- Post-exploitation  
+- Evasion techniques  
 
-## 📌 Notas
+## 📌 Notes
 
-- Todos los writeups son realizados con fines educativos.
-- Se omite información sensible o que infrinja TOS de la plataforma.
-- Feedback o sugerencias son bienvenidas vía *Issues* o *Pull Requests*.
+- All writeups are created for educational purposes only.  
+- Sensitive information or anything that violates the platform’s TOS has been omitted.  
+- Feedback and suggestions are welcome via *Issues* or *Pull Requests*.  
 
-## 📬 Contacto
+## 📬 Contact
 
-Puedes contactarme para dudas, sugerencias o colaboraciones:
+Feel free to reach out for questions, suggestions, or collaborations:
 
-- LinkedIn: www.linkedin.com/in/rodrigo-gallego-marín-b27007297
+- LinkedIn: [www.linkedin.com/in/rodrigo-gallego-marín-b27007297](https://www.linkedin.com/in/rodrigo-gallego-mar%C3%ADn-b27007297)  
 - Email: rodrigoga03@gmail.com
